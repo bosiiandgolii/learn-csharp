@@ -1,2 +1,9 @@
-int nigga = 123;
-System.Console.WriteLine(nigga);
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        
+    }
+}
